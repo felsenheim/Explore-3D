@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/4/context.json",
-  "id": "https://felsenheim.github.io/Explore-3D/iiif_manifests/Microscope/Microscope.json",
+  "id": "https://felsenheim.github.io/Explore-3D/iiif-manifests/Microscope/Microscope.json",
   "type": "Manifest",
   "label": {
     "en": [ "ETH: Microscope, E. Leitz GmbH, 1908" ]
@@ -8,15 +8,15 @@
   "summary": { "en": [ "This 3D model is a digital twin of a microscope manufactured by E. Leitz GmbH, held in the ETH Library collection. It illustrates how 3D digitisation makes scientific heritage objects accessible and explorable for teaching and research." ] },
   "items": [
     {
-      "id": "https://felsenheim.github.io/Explore-3D/iiif_manifests/Microscope/Microscope/scene1",
+      "id": "https://felsenheim.github.io/Explore-3D/iiif-manifests/Microscope/Microscope/scene1",
       "type": "Scene",
       "items": [
         {
-          "id": "https://felsenheim.github.io/Explore-3D/iiif_manifests/Microscope/Microscope/scene1/page1",
+          "id": "https://felsenheim.github.io/Explore-3D/iiif-manifests/Microscope/Microscope/scene1/page1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://felsenheim.github.io/Explore-3D/iiif_manifests/Microscope/Microscope/scene1/page1/anno1",
+              "id": "https://felsenheim.github.io/Explore-3D/iiif-manifests/Microscope/Microscope/scene1/page1/anno1",
               "type": "Annotation",
               "motivation": ["painting"],
               "body": {
@@ -28,7 +28,7 @@
                 "type": "SpecificResource",
                 "source": [
                   {
-                    "id": "https://felsenheim.github.io/Explore-3D/iiif_manifests/Microscope/Microscope/scene1",
+                    "id": "https://felsenheim.github.io/Explore-3D/iiif-manifests/Microscope/Microscope/scene1",
                     "type": "Scene"
                   }
                 ],
@@ -49,72 +49,72 @@
   ],
   "metadata": [
     {
-      "label": { "none": [ "Inventory Number" ] },
-      "value": { "none": [ "ETHZ_GEOB_0055" ] }
+      "label": { "@none": [ "Inventory Number" ] },
+      "value": { "@none": [ "ETHZ_GEOB_0055" ] }
     },
     {
-      "label": { "none": [ "Title" ] },
-      "value": { "none": [ "Mikroskop, E. Leitz GmbH" ] }
+      "label": { "@none": [ "Title" ] },
+      "value": { "@none": [ "Mikroskop, E. Leitz GmbH" ] }
     },
     {
-      "label": { "none": [ "Dating" ] },
-      "value": { "none": [ "1/1908" ] }
+      "label": { "@none": [ "Dating" ] },
+      "value": { "@none": [ "1/1908" ] }
     },
     {
-      "label": { "none": [ "Description" ] },
-      "value": { "none": [ "W. Koch Optik Zürich (distributor's label), E. Leit[z] Wetzlar No. 102207 (manufacturer's label), 1 12 Oil Immersion Leitz Wetzlar (engraving), Microscope No. 102207 Magnifications at 170 mm tube length and 250 mm image distance [table] Wetzlar, 20 January 1908 E. Leitz Branch offices (inscriptions)" ] }
+      "label": { "@none": [ "Description" ] },
+      "value": { "@none": [ "W. Koch Optik Zürich (distributor's label), E. Leit[z] Wetzlar No. 102207 (manufacturer's label), 1 12 Oil Immersion Leitz Wetzlar (engraving), Microscope No. 102207 Magnifications at 170 mm tube length and 250 mm image distance [table] Wetzlar, 20 January 1908 E. Leitz Branch offices (inscriptions)" ] }
     },
     {
-      "label": { "none": [ "Material" ] },
-      "value": { "none": [ "Metal (general), brass (copper-zinc alloy), wood (general), glass" ] }
+      "label": { "@none": [ "Material" ] },
+      "value": { "@none": [ "Metal (general), brass (copper-zinc alloy), wood (general), glass" ] }
     },
     {
-      "label": { "none": [ "Object dimensions" ] },
-      "value": { "none": [ "19 x 26 x 36 cm" ] }
+      "label": { "@none": [ "Object dimensions" ] },
+      "value": { "@none": [ "19 x 26 x 36 cm" ] }
     },
     {
-      "label": { "none": [ "Weight" ] },
-      "value": { "none": [ "7187 g" ] }
+      "label": { "@none": [ "Weight" ] },
+      "value": { "@none": [ "7187 g" ] }
     },
     {
-      "label": { "none": [ "DOI Link" ] },
-      "value": { "none": [ "<a href=\"http://doi.org/10.21264/ethz-a-000016228\">http://doi.org/10.21264/ethz-a-000016228</a>" ] }
+      "label": { "@none": [ "DOI Link" ] },
+      "value": { "@none": [ "<a href=\"http://doi.org/10.21264/ethz-a-000016228\">http://doi.org/10.21264/ethz-a-000016228</a>" ] }
     },
     {
-      "label": { "none": [ "Official website" ] },
-      "value": { "none": [ "<a href=\"https://wil.e-pics.ethz.ch/#z-file_name=GEOB_0055&detail-asset=2b99fe8c-3906-42a9-8e60-67552c6177f9\">https://wil.e-pics.ethz.ch/#z-file_name=GEOB_0055&detail-asset=2b99fe8c-3906-42a9-8e60-67552c6177f9</a>" ] }
+      "label": { "@none": [ "Official website" ] },
+      "value": { "@none": [ "<a href=\"https://wil.e-pics.ethz.ch/#z-file_name=GEOB_0055&detail-asset=2b99fe8c-3906-42a9-8e60-67552c6177f9\">https://wil.e-pics.ethz.ch/#z-file_name=GEOB_0055&detail-asset=2b99fe8c-3906-42a9-8e60-67552c6177f9</a>" ] }
     },
     {
-      "label": { "none": [ "Category" ] },
-      "value": { "none": [ "Geobotanical Research Institute Rübel (1918–2006)" ] }
+      "label": { "@none": [ "Category" ] },
+      "value": { "@none": [ "Geobotanical Research Institute Rübel (1918–2006)" ] }
     },
     {
-      "label": { "none": [ "Copyright" ] },
-      "value": { "none": [ "Collection of Scientific Instruments and Teaching Aids, ETH Library, ETH Zürich" ] }
+      "label": { "@none": [ "Copyright" ] },
+      "value": { "@none": [ "Collection of Scientific Instruments and Teaching Aids, ETH Library, ETH Zürich" ] }
     },
     {
-      "label": { "none": [ "Model Licence" ] },
-      "value": { "none": [ "<a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International (CC BY 4.0)</a>" ] }
+      "label": { "@none": [ "Model Licence" ] },
+      "value": { "@none": [ "<a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International (CC BY 4.0)</a>" ] }
     },
     {
-      "label": { "none": [ "Used Software" ] },
-      "value": { "none": [ "Metashape, Meshmixer, Blender, Photoshop" ] }
+      "label": { "@none": [ "Used Software" ] },
+      "value": { "@none": [ "Metashape, Meshmixer, Blender, Photoshop" ] }
     },
     {
-      "label": { "none": [ "Creator Name" ] },
-      "value": { "none": [ "Christian Felsner" ] }
+      "label": { "@none": [ "Creator Name" ] },
+      "value": { "@none": [ "Christian Felsner" ] }
     },
     {
-      "label": { "none": [ "Creator Affiliation" ] },
-      "value": { "none": [ "ETH Zurich Library" ] }
+      "label": { "@none": [ "Creator Affiliation" ] },
+      "value": { "@none": [ "ETH Zurich Library" ] }
     },
     {
-      "label": { "none": [ "Creation Time Span" ] },
-      "value": { "none": [ "2026-06-04 — 2026-06-16" ] }
+      "label": { "@none": [ "Creation Time Span" ] },
+      "value": { "@none": [ "2026-06-04 — 2026-06-16" ] }
     },
     {
-      "label": { "none": [ "Paradata" ] },
-      "value": { "none": [ "<a href=\"https://felsenheim.github.io/Explore-3D/paradata/Paradata_Microscope.pdf\">Paradata of the ETH: Microscope 1908</a>" ] }
+      "label": { "@none": [ "Paradata" ] },
+      "value": { "@none": [ "<a href=\"https://felsenheim.github.io/Explore-3D/paradata/Paradata_Microscope.pdf\">Paradata of the ETH: Microscope 1908</a>" ] }
     }
   ],
   "requiredStatement": {
@@ -123,7 +123,7 @@
   },
   "thumbnail": [
     {
-      "id": "https://felsenheim.github.io/Explore-3D/iiif_manifests/Microscope/Microscope/Thumb_Microscope.png",
+      "id": "https://felsenheim.github.io/Explore-3D/iiif-manifests/Microscope/Microscope/Thumb_Microscope.png",
       "type": "Image",
       "format": "image/png"
     }
