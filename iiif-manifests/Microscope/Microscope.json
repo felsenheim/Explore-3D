@@ -20,7 +20,7 @@
               "type": "Annotation",
               "motivation": ["painting"],
               "body": {
-                "id": "https://raw.githubusercontent.com/felsenheim/Explore-3D/main/assets/Microscope.glb",
+                "id": "https://github.com/felsenheim/Explore-3D/main/iiif_manifests/Microscope/Microscope.glb",
                 "type": "Model",
                 "format": "model/gltf-binary"
               },
