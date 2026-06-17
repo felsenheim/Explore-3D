@@ -8,11 +8,11 @@
   "summary": { "en": [ "This 3D model is a simplified version of the Saint Gallus (St. Gallus) church in Kaiseraugst. It is intended for learning purposes." ] },
   "items": [
     {
-      "id": "https://github.com/felsenheim/3D-modelling/edit/main/iiif_manifests/St._Gallus_Kirche/scene1/p1/1",
+      "id": "https://github.com/felsenheim/Explore-3D/main/iiif_manifests/Microscope/Microscope/scene1/p1/1",
       "type": "Scene",
       "items": [
         {
-          "id": "https://github.com/felsenheim/3D-modelling/edit/main/iiif_manifests/St._Gallus_Kirche/scene1/p1/1",
+          "id": "https://github.com/felsenheim/Explore-3D/main/iiif_manifests/Microscope/Microscope/scene1/p1/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -20,7 +20,7 @@
               "type": "Annotation",
               "motivation": ["painting"],
               "body": {
-                "id": "https://felsenheim.github.io/Explore-3D/assets/Microscope.glb",
+                "id": "https://raw.githubusercontent.com/felsenheim/Explore-3D/main/assets/Microscope.glb",
                 "type": "Model",
                 "format": "model/gltf-binary"
               },
@@ -28,7 +28,7 @@
                 "type": "SpecificResource",
                 "source": [
                   {
-                    "id": "https://github.com/felsenheim/3D-modelling/edit/main/iiif_manifests/St._Gallus_Kirche/scene1/page/p1/1",
+                    "id": "https://github.com/felsenheim/Explore-3D/main/iiif_manifests/Microscope/Microscope/scene1/page/p1/1",
                     "type": "Scene"
                   }
                 ],
