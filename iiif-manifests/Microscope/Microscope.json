@@ -62,7 +62,7 @@
     },
     {
       "label": { "@none": [ "Description" ] },
-      "value": { "@none": [ "W. Koch Optik Zürich (distributor's label), E. Leit[z] Wetzlar No. 102207 (manufacturer's label), 1 12 Oil Immersion Leitz Wetzlar (engraving), Microscope No. 102207 Magnifications at 170 mm tube length and 250 mm image distance [table] Wetzlar, 20 January 1908 E. Leitz Branch offices (inscriptions)" ] }
+      "value": { "@none": [ "W. Koch Optik Zürich (distributor's label), E. Leitz Wetzlar No. 102207 (manufacturer's label), 1 12 Oil Immersion Leitz Wetzlar (engraving), Microscope No. 102207 Magnifications at 170 mm tube length and 250 mm image distance [table] Wetzlar, 20 January 1908 E. Leitz Branch offices (inscriptions)" ] }
     },
     {
       "label": { "@none": [ "Material" ] },
@@ -123,7 +123,7 @@
   },
   "thumbnail": [
     {
-      "id": "https://felsenheim.github.io/Explore-3D/iiif-manifests/Microscope/Microscope/Thumb_Microscope.png",
+      "id": "https://felsenheim.github.io/Explore-3D/iiif-manifests/Microscope/Microscope/Thumb.jpg",
       "type": "Image",
       "format": "image/png"
     }
