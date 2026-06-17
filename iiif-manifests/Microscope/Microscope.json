@@ -3,9 +3,9 @@
   "id": "https://github.com/felsenheim/Explore-3D/main/iiif_manifests/Microscope/Microscope.json",
   "type": "Manifest",
   "label": {
-    "en": [ "Saint Gallus Church at Kaiseraugst" ]
+    "en": [ "ETH: Microscope, E. Leitz GmbH, 1908" ]
   },
-  "summary": { "en": [ "This 3D model is a simplified version of the Saint Gallus (St. Gallus) church in Kaiseraugst. It is intended for learning purposes." ] },
+  "summary": { "en": [ "This 3D model is a digital twin of a microscope manufactured by E. Leitz GmbH, held in the ETH Library collection. It illustrates how 3D digitisation makes scientific heritage objects accessible and explorable for teaching and research." ] },
   "items": [
     {
       "id": "https://github.com/felsenheim/Explore-3D/main/iiif_manifests/Microscope/Microscope/scene1/p1/1",
@@ -36,8 +36,8 @@
                   {
                     "type": "PointSelector",
                     "x": 0.0,
-                    "y": 0.03,
-                    "z": 0.05
+                    "y": 0.0,
+                    "z": 0.0
                   }
                 ]
               }
@@ -48,6 +48,18 @@
     }
   ],
   "metadata": [
+      {
+      "label": {
+        "@none": [
+          "Inventory Number"
+        ]
+      },
+      "value": {
+        "@none": [
+          "ETHZ_GEOB_0055"
+        ]
+      }
+    },
     {
       "label": {
         "@none": [
@@ -56,7 +68,19 @@
       },
       "value": {
         "@none": [
-          "Saint Gallus Church at Kaiseraugst"
+          "Mikroskop, E. Leitz GmbH"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "Dating"
+        ]
+      },
+      "value": {
+        "@none": [
+          "1/1908"
         ]
       }
     },
@@ -68,55 +92,55 @@
       },
       "value": {
         "@none": [
-          "This 3D model is a simplified version of the Saint Gallus Church at Kaiseraugst from the 13th century. It is intended for learning purposes."
+          "W. Koch Optik Zürich (distributor's label), E. Leit[z] Wetzlar No. 102207 (manufacturer's label), 1 12 Oil Immersion Leitz Wetzlar (engraving), Microscope No. 102207 Magnifications at 170 mm tube length and 250 mm image distance [table] Wetzlar, 20 January 1908 E. Leitz Branch offices (inscriptions)"
         ]
       }
     },
     {
       "label": {
         "@none": [
-          "Course information"
+          "Material"
         ]
       },
       "value": {
         "@none": [
-          "The 3D model was created during a class on 3D modeling for archaeologists taught at the University of Basel in the spring semester 2025. A very limited amount of time was spent to build the model to illustrate what is possible for beginners without any prior knowledge of the software Blender. The focus of the class was more on the creation of paradata, metadata, and of a IIIF manifest according to the current recommendations of the IIIF 3D TSG group than on delivering a final 3D model of good quality. Another important aim of this course was to show students how they can deploy and view their 3D model."
+          "Metal (general), brass (copper-zinc alloy), wood (general), glass"
         ]
       }
     },
     {
       "label": {
         "@none": [
-          "Object name"
+          "Object dimensions"
         ]
       },
       "value": {
         "@none": [
-          "Old St. Gallus Kirche "
+          "19 x 26 x 36 cm"
         ]
       }
     },
     {
       "label": {
         "@none": [
-          "Object type"
+          "Weight"
         ]
       },
       "value": {
         "@none": [
-          "Church"
+          "7187 g"
         ]
       }
     },
-       {
+    {
       "label": {
         "@none": [
-          "Wikipedia"
+          "DOI Link"
         ]
       },
       "value": {
         "@none": [
-          "<a href=\"https://de.wikipedia.org/wiki/St._Gallus_(Kaiseraugst)/\">https://de.wikipedia.org/wiki/St._Gallus_(Kaiseraugst)<a/>"
+          "<a href=\"https://doi.org/10.5281/zenodo.1234567\">https://doi.org/10.5281/zenodo.1234567<a/>"
         ]
       }
     },
@@ -128,55 +152,31 @@
       },
       "value": {
         "@none": [
-          "<a href=\"https://www.augustaraurica.ch/besuchen/fruehe-kirche/\">https://www.augustaraurica.ch/besuchen/fruehe-kirche/<a/>"
+          "<a href=\"https://wil.e-pics.ethz.ch/#z-file_name=GEOB_0055&detail-asset=2b99fe8c-3906-42a9-8e60-67552c6177f9\">https://wil.e-pics.ethz.ch/#z-file_name=GEOB_0055&detail-asset=2b99fe8c-3906-42a9-8e60-67552c6177f9/<a/>"
         ]
       }
     },
     {
       "label": {
         "@none": [
-          "Location"
+          "Category"
         ]
       },
       "value": {
         "@none": [
-          "Kaiseraugst"
+          "Geobotanical Research Institute Rübel (1918–2006)"
         ]
       }
     },
     {
       "label": {
         "@none": [
-          "Location Detail"
+          "Copyright"
         ]
       },
       "value": {
         "@none": [
-          "Church"
-        ]
-      }
-    },
-    {
-      "label": {
-        "@none": [
-          "Location GoogleMaps"
-        ]
-      },
-      "value": {
-        "@none": [
-          "<a href=\"https://maps.app.goo.gl/SrN2esjno1LDuT747\">https://maps.app.goo.gl/SrN2esjno1LDuT747<a/>"
-        ]
-      }
-    },
-    {
-      "label": {
-        "@none": [
-          "Location Kaiseraugst"
-        ]
-      },
-      "value": {
-        "@none": [
-          "<a href=\"https://www.kaiseraugst.ch\">https://www.kaiseraugst.ch<a/>"
+          "Collection of Scientific Instruments and Teaching Aids, ETH Library, ETH Zürich"
         ]
       }
     },
@@ -188,33 +188,10 @@
       },
       "value": {
         "@none": [
-          "<a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International (CC BY)<a/>"
+          "<a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">Attribution 4.0 International (CC-BY-SA)<a/>"
         ]
       }
     },
-    {
-      "label": {
-        "@none": [
-          "Author Name"
-        ]
-      },
-      "value": {
-        "@none": [
-          "Sage Nussbaum"
-        ]
-      }
-    },
-    {
-      "label": {
-        "@none": [
-          "Author Affiliation"
-        ]
-      },
-      "value": {
-        "@none": [
-          "University of Basel"
-        ]
-      }
     },
     {
       "label": {
@@ -224,7 +201,7 @@
       },
       "value": {
         "@none": [
-          "Blender 4.4"
+          "Metashape, Meshmixer, Blender, Photoshop"
         ]
       }
     },
@@ -236,7 +213,7 @@
       },
       "value": {
         "@none": [
-          "Sage Nussbaum"
+          "Christian Felsner"
         ]
       }
     },
@@ -248,7 +225,7 @@
       },
       "value": {
         "@none": [
-          "University of Basel"
+          "ETH Zurich Library"
         ]
       }
     },
@@ -260,7 +237,7 @@
       },
       "value": {
         "@none": [
-          "2025-02-15 — 2025-05-12"
+          "2026-06-04 — 2026-06-16"
         ]
       }
     },
@@ -272,15 +249,15 @@
       },
       "value": {
         "@none": [
-          "<a href=\"https://gautschr.github.io/3D-modelling/paradata/Paradata_of_the_Church_St._Gallus_at_Kaiseraugst.pdf\">Paradata of the church St. Gallus at Kaiseraugst<a/>"
+          "<a href=\"https://felsneheim.github.io/Explore-3D/paradata/Paradata_Microscope.pdf\">Paradata of the ETH: Microscope 1908<a/>"
         ]
       }
     }
   ],
-  "attribution": "Provided by Sage Nussbaum",
+  "attribution": "Provided by Christian Felsner",
   "thumbnail": [
     {
-      "id": "https://gautschr.github.io/3D-modelling/iiif_manifests/St._Gallus_Kirche/Thumb.png",
+      "id": "https://felsne.github.io/3D-modelling/iiif_manifests/Microscope/Microscope/Thumb_Microscope.png",
       "type": "Image"
     }
   ]
