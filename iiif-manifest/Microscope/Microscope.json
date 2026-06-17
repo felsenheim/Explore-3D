@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/4/context.json",
-  "id": "https://github.com/felsenheim/Explore3D/iiif_manifests/Microscope/Microscope.json",
+  "id": "https://github.com/felsenheim/Explore-3D/iiif_manifests/Microscope/Microscope.json",
   "type": "Manifest",
   "label": {
     "en": [ "Saint Gallus Church at Kaiseraugst" ]
@@ -16,11 +16,11 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://github.com/felsenheim/3D-modelling/edit/main/iiif_manifests/St._Gallus_Kirche/anno1",
+              "id": "https://github.com/felsenheim/Explore-3D/iiif_manifests/Microscope/Microscope.json",
               "type": "Annotation",
               "motivation": ["painting"],
               "body": {
-                "id": "https://raw.githubusercontent.com/felsenheim/3D-modelling/assets/Microscope.glb",
+                "id": "https://raw.githubusercontent.com/felsenheim/Explore-3D/assets/Microscope.glb",
                 "type": "Model",
                 "format": "model/gltf-binary"
               },
